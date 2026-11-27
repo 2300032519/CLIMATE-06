@@ -1,0 +1,16 @@
+<style>
+.stApp {background:#0b1120;color:#e5e7eb}
+[data-testid="stSidebar"] {background:#111a2e;border-right:1px solid #26344f}
+[data-testid="stSidebar"] * {color:#e5e7eb}
+.block-container {padding-top:2rem;max-width:1500px}
+h1,h2,h3 {color:#f8fafc!important;letter-spacing:-.025em}
+.eyebrow {color:#60a5fa;font-size:.75rem;font-weight:800;letter-spacing:.16em}
+.subhead {color:#9caec8;font-size:1rem;margin-top:-.5rem;margin-bottom:1.5rem}
+[data-testid="stMetric"] {background:#131f35;border:1px solid #263957;padding:16px;border-radius:14px}
+[data-testid="stMetricLabel"] {color:#9fb1ca!important}
+[data-testid="stMetricValue"] {color:#f8fafc!important}
+.stage {background:#131f35;border:1px solid #263957;border-radius:12px;padding:16px 12px;min-height:100px;display:flex;flex-direction:column;gap:10px}
+.stage span {color:#60a5fa;font-weight:800;font-size:.8rem}
+.stage b {color:#e5e7eb;font-size:.9rem}
+</style>
+
